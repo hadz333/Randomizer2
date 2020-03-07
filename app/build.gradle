@@ -4,6 +4,7 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 //ass and titties
+// boob 1 + boob 2 = 2boob
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.1"
