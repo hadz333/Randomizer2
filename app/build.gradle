@@ -7,6 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 // boob 1 + boob 2 = 2boob
 // testing to see if we can work simultaneously 1234
 // for Dino to practice merging despite conflicting lines
+// my own thing
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.1"
